@@ -1,10 +1,10 @@
 import os
 
-
+list = []
+list1 = []
 #Creating a project of syncing files into master and replica folder.
 
 #Get 2 args of input master folder and replica folder
-
 
 
 #If number of arguments != 2, we would exit and print that exactly 2 arguments needed
