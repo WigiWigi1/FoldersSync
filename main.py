@@ -81,8 +81,6 @@ def get_file_attributes(file_name, path):
 # Main function of program
 def process_folder(source_folder, target_folder):
     # Getting list of files from both folders
-    # check_folder_exists(source_folder)
-    # check_folder_exists(target_folder)
 
     master_file_list = os.listdir(source_folder)
     replica_file_list = os.listdir(target_folder)
