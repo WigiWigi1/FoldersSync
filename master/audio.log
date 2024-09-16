@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=Realtek USB Audio
+Version=0.19
+Company=Realtek Semiconductor Corp.
+Lang=0409
